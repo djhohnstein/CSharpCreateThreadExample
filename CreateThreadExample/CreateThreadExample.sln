@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateThreadExample", "CreateThreadExample\CreateThreadExample.csproj", "{54674A1A-B4B2-4E8C-ADA7-D3BF33808CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XOREncrypt", "XOREncrypt\XOREncrypt.csproj", "{397DC7E7-AF8F-4905-85D4-10515CA2D7C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54674A1A-B4B2-4E8C-ADA7-D3BF33808CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54674A1A-B4B2-4E8C-ADA7-D3BF33808CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54674A1A-B4B2-4E8C-ADA7-D3BF33808CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54674A1A-B4B2-4E8C-ADA7-D3BF33808CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397DC7E7-AF8F-4905-85D4-10515CA2D7C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397DC7E7-AF8F-4905-85D4-10515CA2D7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397DC7E7-AF8F-4905-85D4-10515CA2D7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397DC7E7-AF8F-4905-85D4-10515CA2D7C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D595FD5D-4112-403B-BCC1-E7B3C8D584B3}
+	EndGlobalSection
+EndGlobal
